@@ -1,0 +1,25 @@
+{
+  "name": "Modern Chic Hair by Hailey",
+  "town": "Oswego IL",
+  "type": "hair salon",
+  "address": "56 Main St, Oswego, IL 60543",
+  "phone": "6305890061",
+  "checklistComplete": 9,
+  "researchStartedAt": "2026-05-30T05:10:00Z",
+  "stage1FinishedAt": "2026-05-30T05:26:00Z",
+  "bookingUrl": "https://www.vagaro.com/mchnff",
+  "aiAssets": {
+    "logo": {
+      "source": "text_wordmark",
+      "url": null,
+      "note": "FB Graph binary fetch blocked by sandbox egress; serif wordmark"
+    },
+    "hero": {
+      "source": "css_gradient_unsplash",
+      "generated": false,
+      "note": "Split hero, CSS gradient + Unsplash panel; Canva export hosting blocked"
+    },
+    "galleryEdited": false,
+    "galleryNote": "Adobe binary egress blocked; Unsplash + CSS grade per documented per-asset fallback"
+  }
+}
